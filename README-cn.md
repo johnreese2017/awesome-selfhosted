@@ -105,8 +105,8 @@
 
 _网页分析_
 
-- [AWStats](http://www.awstats.org/) - 生成图形化的网页，流媒体服务，FTP 或者邮件服务器的分析。 ([源码](https://github.com/eldy/awstats),[演示站](https://www.nltechno.com/awstats/awstats.pl?config=destailleur.fr)) `GPL-3.0` `Perl`
-- [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
+- [AWStats](http://www.awstats.org/) - 生成图形化的网页，流媒体服务，FTP 或者邮件服务器的分析。 ([源码](https://github.com/eldy/awstats),[演示站](https://www.nltechno.com/awstats/awstats.pl?config=destailleur.fr),[文档](http://www.awstats.org/docs/index.html)) `GPL-3.0` `Perl`
+- [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([源码](https://github.com/countly),[文档](https://resources.count.ly/)) `AGPL-3.0` `Javascript`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache-2.0` `Java`
 - [Fathom Analytics](https://usefathom.com) - Simple & trustworthy website analytics. ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
