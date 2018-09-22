@@ -71,7 +71,7 @@
   - [Read it Later Lists](#read-it-later-lists)
   - [Resource Planning](#resource-planning)
     - [Enterprise Resource Planning](#enterprise-resource-planning)
-    - [Kitchen Resource Planning](#Kitchen Resource Planning)
+    - [Kitchen Resource Planning](#kitchen-resource-planning)
   - [Search Engines](#search-engines)
   - [Software Development](#software-development)
     - [Project Management](#project-management)
