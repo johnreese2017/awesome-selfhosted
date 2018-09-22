@@ -11,7 +11,7 @@
 --------------------
 
 - 软件列表
-  - [Analytics](#analytics)
+  - [数据分析](#数据分析)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
   - [Automation](#automation)
   - [Blogging Platforms](#blogging-platforms)
@@ -98,14 +98,14 @@
 
 <!-- BEGIN SOFTWARE LIST -->
 
-## Analytics
-For personal analytics/dashboards, see [Personal Dashboards](https://github.com/Kickball/awesome-selfhosted#personal-dashboards)
+## 数据分析
+针对个人的数据分析/面板, 参考 [Personal Dashboards](https://github.com/Kickball/awesome-selfhosted#personal-dashboards)
 
-**[`^        back to top        ^`](#)**
+**[`^        返回顶部        ^`](#)**
 
-_Web Analytics_
+_网页分析_
 
-- [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+- [AWStats](http://www.awstats.org/) - 生成图形化的网页，流媒体服务，FTP 或者邮件服务器的分析。 ([源码](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
 - [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache-2.0` `Java`
 - [Fathom Analytics](https://usefathom.com) - Simple & trustworthy website analytics. ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`
