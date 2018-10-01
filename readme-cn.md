@@ -107,8 +107,8 @@
 _网页分析_
 
 - [AWStats](http://www.awstats.org/) - 生成图形化的网页，流媒体服务，FTP 或者邮件服务器的分析。 ([源码](https://github.com/eldy/awstats),[演示站](https://www.nltechno.com/awstats/awstats.pl?config=destailleur.fr),[文档](http://www.awstats.org/docs/index.html)) `GPL-3.0` `Perl`
-- [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([源码](https://github.com/countly),[文档](https://resources.count.ly/)) `AGPL-3.0` `Javascript`
-- [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache-2.0` `Java`
+- [Countly](https://count.ly) - 实时移动和网站数据中心, 系统崩溃报告即时通知平台. ([源码](https://github.com/countly),[文档](https://resources.count.ly/)) `AGPL-3.0` `Javascript`
+- [Druid](http://druid.io/) - 分布式实时数据分析站点. ([源码](https://github.com/druid-io/druid/),[文档](http://druid.io/docs/latest/design/)) `Apache-2.0` `Java`
 - [Fathom Analytics](https://usefathom.com) - Simple & trustworthy website analytics. ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 - [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
